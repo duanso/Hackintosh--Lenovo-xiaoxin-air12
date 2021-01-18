@@ -19,5 +19,5 @@
 
 声卡	瑞昱  @ 英特尔 High Definition Audio 控制器
 
-网卡（已更换）	博通 Broadcom 802.11ac Network Adapter / 联想
+Intel自带网卡已驱动，没有设置Wi-Fi密码的能正常使用，其他情况请自行测试
 
